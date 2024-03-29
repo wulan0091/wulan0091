@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://darksystem.zetacomponents.org/shop/sitemap.xml
